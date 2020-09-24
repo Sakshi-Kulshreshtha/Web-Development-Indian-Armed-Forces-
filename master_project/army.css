@@ -1,0 +1,77 @@
+*{
+	margin:0;
+	padding:2px;
+}
+a{
+	color:white;
+}
+
+#container{
+	width:100%;
+	margin:0 auto;
+	}
+header{
+	width:100%;
+	height:200px;
+}
+#head{
+	font-size:100px;
+	text-shadow:5px 5px black;
+	
+}
+.left_header{
+	background-image:url(images/army_bg.jpg);
+	background-repeat:no-repeat;
+	background-size:100% 200px;
+	color:black;
+	font-size:100px;
+	height:150px;
+	font-family:arial;
+	font-weight:bold;
+}
+nav{
+	background:black;
+	color:white;
+	height:50px;
+	font-size:20px;
+	display:block;
+	
+	
+}
+nav ul li{
+	float:left;
+	padding:20px;
+}
+nav ul li:hover{
+	background:#2B411C;
+	height:50px;
+}
+#carousel1{
+	width:100%;
+}
+.carousel_img{
+	width:100%;
+}
+
+#c_div{
+	background-image:url(images/army_bgcon.jpg);
+	height:700px;
+}
+#ind_p{
+	font-size:15px;
+	font-weight:bold;
+}
+footer{
+	padding:10px;
+	background:#A4AA88;
+	background-repeat:no-repeat;
+	height:150px;
+	width:100%;
+	font-size:15px;
+	font-family:arial;
+	box-shadow:5px 5px black;
+	border:5px 5px solid black;
+	
+}
+
+	
